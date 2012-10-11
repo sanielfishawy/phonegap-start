@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.alunny.amazing"
         version   = "99.999">
-    <name>Sani's Awesome app</name>
+    <name>Sani's Phonegap Start App</name>
 
     <description>
         An amazing app by sani
